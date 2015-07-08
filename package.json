@@ -1,0 +1,20 @@
+{
+	"author": "Deepraj Devaraj",
+	"name": "censorstring",
+	"version": "1.0.0",
+	"main": "censortext",
+	"description": "Censors the content from text",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/deeprajdevaraj/censorstring"
+	},
+	"keywords": [
+		"censor",
+		"unwanted",
+		"words"
+	],
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
